@@ -2,7 +2,7 @@ name = "notifytg"
 main = "src/index.js"
 compatibility_date = "2023-05-12"
 [ vars ]
-TOKEN = ""
+TOKEN = "6040746434:AAHxdOOPnfobObbHJhZo0C3fF1_Wq1_K_IE"
 send_email = [
     {type = "send_email", name = "SEB"},
 ]
